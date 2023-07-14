@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-mergeDebugResources-54:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-main-57:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.example.segopecel2.app-mergeDebugResources-54:/layout/fragment_second.xml",
+        "source": "com.example.segopecel2.app-main-57:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-mergeDebugResources-54:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-main-57:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-mergeDebugResources-54:\\layout\\item_pecel.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-main-57:\\layout\\item_pecel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-mergeDebugResources-54:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.segopecel2.app-main-57:\\layout\\content_main.xml"
+    }
+]
